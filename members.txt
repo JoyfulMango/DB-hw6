@@ -1,0 +1,3 @@
+Harshil Mamidi: worked on select
+Ashish Priyadarshi: worked on insert
+Robin Yang: worked on delete
